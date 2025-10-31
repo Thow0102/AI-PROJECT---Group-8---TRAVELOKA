@@ -6,8 +6,8 @@ Dự án nhằm xây dựng mô hình phân cụm (K-Means) để xác định n
 
 ## 👥 Thành viên nhóm
 | Họ tên | MSSV | Vai trò |
-| Mai Sĩ Thơ| 31231024231 | Nhóm trưởng,...|
-| Hà Ngọc Phương | ... | .....|
+| Mai Sĩ Thơ | 31231024231 | Nhóm trưởng,... |
+| Hà Ngọc Phương | ... | ..... |
 | Trần Thị Thanh Vi | ... | ... |
 | Ngô Thị Khánh Ngọc | ... | ... |
 | Nguyễn Thị Kim Ngân | ... | ... |
