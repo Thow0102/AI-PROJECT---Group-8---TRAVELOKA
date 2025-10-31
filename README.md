@@ -6,19 +6,21 @@ Dự án nhằm xây dựng mô hình phân cụm (K-Means) để xác định n
 
 ## 👥 Thành viên nhóm
 | Họ tên | MSSV | Vai trò |
-| Mai Sĩ Thơ | 31231024231 | Nhóm trưởng,... |
-| Hà Ngọc Phương | ... | ..... |
-| Trần Thị Thanh Vi | ... | ... |
-| Ngô Thị Khánh Ngọc | ... | ... |
-| Nguyễn Thị Kim Ngân | ... | ... |
-| Trương Bảo Hân | ... | ... |
-| Võ Nguyễn Hoàng Nhi | ... | ... |
+|--------|-------|----------|
+| Mai Sĩ Thơ | 31231024231 | Nhóm trưởng – Data Modeling, GitHub |
+| Hà Ngọc Phương | ... | Business Analyst – AI Canvas, KPI |
+| Trần Thị Thanh Vi | ... | EDA & Visualization |
+| Ngô Thị Khánh Ngọc | ... | Data Cleaning & Preprocessing |
+| Nguyễn Thị Kim Ngân | ... | Documentation & Report |
+| Trương Bảo Hân | ... | Design & Presentation |
+| Võ Nguyễn Hoàng Nhi | ... | Communication & Marketing Strategy |
 
 
 ## 🚀 Mục tiêu dự án
 - Phân tích hành vi khách hàng từ dữ liệu `Hotel Booking Demand`.
 - Áp dụng thuật toán **K-Means Clustering** để tìm nhóm khách hàng có chi tiêu cao.
 - Đưa ra chiến lược marketing phù hợp với từng phân khúc.
+- Đánh giá hiệu quả mô hình theo các chỉ số như **Silhouette Score** và **ROI tiềm năng**.
 
 ## 🧠 Mô hình & Công cụ
 - **Ngôn ngữ:** Python (Pandas, NumPy, Scikit-learn)
