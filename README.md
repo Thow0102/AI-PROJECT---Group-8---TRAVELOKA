@@ -8,12 +8,12 @@ Dự án nhằm xây dựng mô hình phân cụm (K-Means) để xác định n
 | Họ tên | MSSV | Vai trò |
 |--------|-------|----------|
 | Mai Sĩ Thơ | 31231024231 | Nhóm trưởng – Data Modeling, GitHub |
-| Hà Ngọc Phương | ... | Business Analyst – AI Canvas, KPI |
-| Trần Thị Thanh Vi | ... | EDA & Visualization |
-| Ngô Thị Khánh Ngọc | ... | Data Cleaning & Preprocessing |
-| Nguyễn Thị Kim Ngân | ... | Documentation & Report |
-| Trương Bảo Hân | ... | Design & Presentation |
-| Võ Nguyễn Hoàng Nhi | ... | Communication & Marketing Strategy |
+| Hà Ngọc Phương | 31231024954 | Business Analyst – AI Canvas, KPI |
+| Trần Thị Thanh Vi | 31231026955 | EDA & Visualization |
+| Ngô Thị Khánh Ngọc | 31231021734 | Data Cleaning & Preprocessing |
+| Nguyễn Thị Kim Ngân | 31231022496 | Documentation & Report |
+| Trương Bảo Hân | 31231020211 | Design & Presentation |
+| Võ Nguyễn Hoàng Nhi | 31231026034 | Communication & Marketing Strategy |
 
 
 ## 🚀 Mục tiêu dự án
@@ -42,8 +42,6 @@ Dự án nhằm xây dựng mô hình phân cụm (K-Means) để xác định n
 ## 🔗 Liên kết
 - Trang Notion nhóm: https://www.notion.so/294862272ad48053934fd79c3ff07679?v=294862272ad481029321000c5691a819&source=copy_link
 - Dataset gốc_Hotel Booking Demand on Kaggle: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
-- ...
----
 
 ## 📈 Kết quả dự kiến
 - Độ chính xác dự đoán phân khúc cao cấp ≥ 85%
