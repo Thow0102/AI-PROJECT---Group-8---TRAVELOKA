@@ -16,26 +16,25 @@ Dự án nhằm xây dựng mô hình phân cụm (K-Means) để xác định n
 | Võ Nguyễn Hoàng Nhi | 31231026034 | Communication & Marketing Strategy |
 
 ## Cấu trúc các file trong đồ án
-│
 ├── data/
-│   ├── hotel_booking_demand.csv        # Dữ liệu gốc về đặt phòng khách sạn từ Kaggle
-│   ├── hotel_booking_cleaned_raw_with_clusters1.csv               # Dữ liệu phân cụm lần 1 chưa chuẩn hóa
-│   ├── hotel_booking_cleaned_raw_with_clusters2.csv        # Dữ liệu phân cụm lần 2 chưa chuẩn hóa
-│   ├── hotel_booking_cleaned_with_clusters1.csv   # Dữ liệu sạch phân cụm lần 1 đã chuẩn hóa
-│   └── hotel_booking_cleaned_with_clusters2.csv   # Dữ liệu sạch phân cụm lần 2 đã chuẩn hóa
+│   ├── hotel_booking_demand.csv                         # Dữ liệu gốc từ Kaggle
+│   ├── hotel_booking_cleaned_raw_with_clusters1.csv     # Dữ liệu phân cụm lần 1 (chưa chuẩn hóa)
+│   ├── hotel_booking_cleaned_raw_with_clusters2.csv     # Dữ liệu phân cụm lần 2 (chưa chuẩn hóa)
+│   ├── hotel_booking_cleaned_with_clusters1.csv         # Dữ liệu sạch phân cụm lần 1 (đã chuẩn hóa)
+│   └── hotel_booking_cleaned_with_clusters2.csv         # Dữ liệu sạch phân cụm lần 2 (đã chuẩn hóa)
 │
 ├── notebooks/
-│   └── codeAIPj.ipynb                      # Jupyter Notebook cho dự án
+│   └── codeAIPj.ipynb                                   # Notebook xử lý & phân tích dữ liệu
 │
 ├── src/
-│   └── dashboard.py 
+│   └── dashboard.py                                     # Mã nguồn Dashboard
 │
 ├── reports/
-│   ├── Nhom8_report.pdf                     # Báo cáo cuối cùng của dự án
-│   ├── SLIDE FINAL AI PROJECT.pdf           # Slide thuyết trình
-│   └── brochure.pdf                         # Tài liệu giới thiệu/quảng bá kết quả
+│   ├── Nhom8_report.pdf                                 # Báo cáo cuối cùng của dự án
+│   ├── SLIDE FINAL AI PROJECT.pdf                       # Slide thuyết trình
+│   └── brochure.pdf                                     # Brochure giới thiệu kết quả
 │
-└── README.md                          # Tài liệu mô tả dự án
+└── README.md                                            # Tài liệu mô tả dự án
 
 ## Mục tiêu dự án
 - Phân tích hành vi khách hàng từ dữ liệu `Hotel Booking Demand`.
