@@ -1,5 +1,5 @@
 # AI-PROJECT---Group-8---TRAVELOKA
-***Đề tài***: Dự đoán phân khúc khách hàng và tìm nhóm khách hàng có chi tiêu cao ở Traveloka
+***Đề tài***: ỨNG DỤNG MACHINE LEARNING TRONG PHÂN KHÚC KHÁCH HÀNG VÀ DỰ BÁO NHÓM CHI TIÊU CAO TRÊN NỀN TẢNG TRAVELOKA
 
 ## Giới thiệu
 Dự án nhằm xây dựng mô hình phân cụm (K-Means) để xác định nhóm khách hàng có hành vi chi tiêu cao dựa trên dữ liệu đặt phòng của Traveloka, giúp tối ưu chiến dịch marketing và tăng doanh thu trung bình mỗi khách hàng.
