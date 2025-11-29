@@ -15,6 +15,36 @@ Dự án nhằm xây dựng mô hình phân cụm (K-Means) để xác định n
 | Trương Bảo Hân | 31231020211 | Design & Presentation |
 | Võ Nguyễn Hoàng Nhi | 31231026034 | Communication & Marketing Strategy |
 
+## Cấu trúc các file trong đồ án
+│
+├── data/
+│   ├── hotel_booking_demand.csv        # Dữ liệu gốc về đặt phòng khách sạn từ Kaggle
+│   └── cleaned_data.csv               # Dữ liệu đã được làm sạch và tiền xử lý
+│
+├── notebooks/
+│   ├── EDA.ipynb                      # Jupyter Notebook cho phân tích khám phá dữ liệu (EDA)
+│   ├── data_preprocessing.ipynb        # Jupyter Notebook cho làm sạch và tiền xử lý dữ liệu
+│   ├── clustering_model.ipynb          # Jupyter Notebook cho mô hình phân cụm K-Means
+│   └── evaluation.ipynb                # Jupyter Notebook đánh giá hiệu suất mô hình
+│
+├── src/
+│   ├── __init__.py                    # Tệp khởi tạo cho module
+│   ├── data_cleaning.py                # Script làm sạch dữ liệu
+│   ├── feature_engineering.py          # Script tạo các đặc trưng cho mô hình
+│   ├── kmeans_clustering.py            # Script triển khai thuật toán K-Means phân cụm
+│   └── model_evaluation.py             # Script đánh giá mô hình
+│
+├── reports/
+│   ├── final_report.pdf                # Báo cáo cuối cùng của dự án
+│   ├── presentation.pptx               # Slide thuyết trình
+│   └── dashboard_report.pdf            # Báo cáo về Dashboard trực quan hóa kết quả
+│
+├── config/
+│   ├── config.yaml                    # Cấu hình cho các thông số mô hình
+│   └── .gitignore                     # Tệp gitignore để loại trừ các tệp không cần thiết
+│
+├── requirements.txt                   # Liệt kê các thư viện và công cụ cần thiết cho dự án
+└── README.md                          # Tài liệu mô tả dự án
 
 ## Mục tiêu dự án
 - Phân tích hành vi khách hàng từ dữ liệu `Hotel Booking Demand`.
