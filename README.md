@@ -36,29 +36,10 @@ Dự án nhằm xây dựng mô hình phân cụm (K-Means) để xác định n
 │
 └── README.md                                            # Tài liệu mô tả dự án
 
-├── data/
-│   ├── hotel_booking_demand.csv                         # Dữ liệu gốc từ Kaggle
-│   ├── hotel_booking_cleaned_raw_with_clusters1.csv     # Dữ liệu phân cụm lần 1 (chưa chuẩn hóa)
-│   ├── hotel_booking_cleaned_raw_with_clusters2.csv     # Dữ liệu phân cụm lần 2 (chưa chuẩn hóa)
-│   ├── hotel_booking_cleaned_with_clusters1.csv         # Dữ liệu sạch phân cụm lần 1 (đã chuẩn hóa)
-│   └── hotel_booking_cleaned_with_clusters2.csv         # Dữ liệu sạch phân cụm lần 2 (đã chuẩn hóa)
-│
-├── notebooks/
-│   └── codeAIPj.ipynb                                   # Notebook xử lý & phân tích dữ liệu
-│
-├── src/
-│   └── dashboard.py                                     # Mã nguồn Dashboard
-│
-├── reports/
-│   ├── Nhom8_report.pdf                                 # Báo cáo cuối cùng của dự án
-│   ├── SLIDE FINAL AI PROJECT.pdf                       # Slide thuyết trình
-│   └── brochure.pdf                                     # Brochure giới thiệu kết quả
-│
-└── README.md                                            # Tài liệu mô tả dự án
 
 ## Mục tiêu dự án
 - Phân tích hành vi khách hàng từ dữ liệu `Hotel Booking Demand`.
-- Áp dụng thuật toán **K-Means Clustering** để tìm nhóm khách hàng có chi tiêu cao.
+- Áp dụng thuật toán **K-Means Clustering, BIRCH Clustering, DBSCAN Clustering** để tìm nhóm khách hàng có chi tiêu cao.
 - Đưa ra chiến lược marketing phù hợp với từng phân khúc.
 - Đánh giá hiệu quả mô hình theo các chỉ số như **Silhouette Score** và **ROI tiềm năng**.
 
@@ -83,3 +64,16 @@ Dự án nhằm xây dựng mô hình phân cụm (K-Means) để xác định n
 - Độ chính xác dự đoán phân khúc cao cấp ≥ 85%
 - Tăng doanh thu bình quân mỗi khách hàng cao cấp 10–15%
 - Tỷ lệ giữ chân khách hàng cao cấp tăng 10–12%
+
+## Kết quả chính của dự án
+- Xác định **3 phân khúc khách hàng giá trị cao**:
+  - **Luxury / Premium**
+  - **Nhu cầu cao / Kỳ vọng cao**
+  - **Gia đình – Công tác – Tiêu chuẩn**
+- Tính khả thi tài chính:
+  - **ROI:** 151.4%  
+  - **NPV:** +43.1 tỷ VND  
+  - **IRR:** 63.8%  
+- Dashboard trình bày trực quan các phân khúc khách hàng
+- Gợi ý chiến lược marketing cho từng nhóm
+
