@@ -16,26 +16,29 @@ Dự án nhằm xây dựng mô hình phân cụm (K-Means) để xác định n
 | Võ Nguyễn Hoàng Nhi | 31231026034 | Communication & Marketing Strategy |
 
 ## Cấu trúc các file trong đồ án
+```
 │
 ├── data/
-│   ├── hotel_booking_demand.csv        
-│   ├── hotel_booking_cleaned_raw_with_clusters1.csv               
-│   ├── hotel_booking_cleaned_raw_with_clusters2.csv        
+│   ├── hotel_booking_demand.csv         
+│   ├── hotel_booking_cleaned_raw_with_clusters1.csv              
+│   ├── hotel_booking_cleaned_raw_with_clusters2.csv       
 │   ├── hotel_booking_cleaned_with_clusters1.csv   
 │   └── hotel_booking_cleaned_with_clusters2.csv  
 │
 ├── notebooks/
-│   └── codeAIPj.ipynb                      
+│   └── codeAIPj.ipynb                              
 │
 ├── src/
 │   └── dashboard.py 
 │
 ├── reports/
-│   ├── Nhom8_report.pdf                     
-│   ├── SLIDE FINAL AI PROJECT.pdf           
-│   └── brochure.pdf                         
+│   ├── Nhom8_report.pdf                              
+│   ├── SLIDE FINAL AI PROJECT.pdf  
+│   └── brochure.pdf                                 
 │
-└── README.md      
+└── README.md       
+```
+
 ## Mục tiêu dự án
 - Phân tích hành vi khách hàng từ dữ liệu `Hotel Booking Demand`.
 - Áp dụng thuật toán **K-Means Clustering, BIRCH Clustering, DBSCAN Clustering** để tìm nhóm khách hàng có chi tiêu cao.
