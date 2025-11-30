@@ -59,9 +59,10 @@ Dự án nhằm xây dựng mô hình phân cụm (K-Means) để xác định n
 | 4 | 17/11/2025 - 30/11/2025 | Dashboard, Final Report, Slide |
 
 ## Liên kết
-- Trang Notion nhóm: https://www.notion.so/294862272ad48053934fd79c3ff07679?v=294862272ad481029321000c5691a819&source=copy_link
+- URL repository của dự án: https://github.com/Thow0102/AI-PROJECT---Group-8---TRAVELOKA
+- URL trang web nhóm: https://www.notion.so/294862272ad48053934fd79c3ff07679?v=294862272ad481029321000c5691a819&source=copy_link
 - Dataset gốc_Hotel Booking Demand on Kaggle: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
-
+  
 ## Kết quả dự kiến
 - Độ chính xác dự đoán phân khúc cao cấp ≥ 85%
 - Tăng doanh thu bình quân mỗi khách hàng cao cấp 10–15%
